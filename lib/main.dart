@@ -26,9 +26,9 @@ class AppColors {
   static const card = Color(0xFF121212);
   static const inset = Color(0xFF171717);
   static const border = Color(0xFF262626);
-  static const primary = Color(0xFFEDEDED);
-  static const secondary = Color(0xFFA1A1A1);
-  static const muted = Color(0xFF737373);
+  static const primary = Color(0xFFFFFFFF);
+  static const secondary = Color(0xFFFFFFFF);
+  static const muted = Color(0xFFFFFFFF);
   static const amber = Color(0xFFF59E0B);
   static const green = Color(0xFF10B981);
   static const red = Color(0xFFEF4444);
